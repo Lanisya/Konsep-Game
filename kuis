@@ -1,0 +1,19 @@
+# Konsep-Game
+
+#include <iostream>
+using namespace std;
+
+int main() {
+	int n;
+	cout<<"siapakah komting kelas 1 GT "<<endl;
+	cout<<"a.dimas"<<endl;
+	cout<<"b.ludy"<<endl;
+	cout<<"c.oyik"<<endl;
+	cout<<"masukkan jawaban : "<<endl;
+	
+	cin>>n;
+	
+}
+	if (n == a) {
+	cout<<"jawabannya benar"<<endl;
+}
